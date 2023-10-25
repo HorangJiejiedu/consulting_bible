@@ -1,0 +1,1926 @@
+.consulting-kisae-com {
+  background-color: #f4f6f4;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.consulting-kisae-com .div {
+  background-color: #f4f6f4;
+  overflow-x: hidden;
+  width: 1920px;
+  height: 12975.19px;
+  position: relative;
+}
+
+.consulting-kisae-com .overlap {
+  position: absolute;
+  width: 1920px;
+  height: 984px;
+  top: 0;
+  left: 0;
+}
+
+.consulting-kisae-com .main-article-section {
+  position: absolute;
+  width: 1920px;
+  height: 984px;
+  top: 0;
+  left: 0;
+  background-image: url(./img/main-article-section.svg);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.consulting-kisae-com .overlap-group {
+  position: relative;
+  height: 984px;
+  background: linear-gradient(180deg, rgb(216, 216, 216) 0%, rgb(20, 40, 31) 0%);
+}
+
+.consulting-kisae-com .heading {
+  width: 671px;
+  height: 46px;
+  top: 278px;
+  left: 623px;
+  font-family: "Rubik-Bold", Helvetica;
+  font-weight: 700;
+  color: #dad62e;
+  font-size: 35px;
+  text-align: center;
+  line-height: 46px;
+  position: absolute;
+  letter-spacing: 0;
+  white-space: nowrap;
+}
+
+.consulting-kisae-com .text-wrapper {
+  width: 629px;
+  height: 84px;
+  top: 352px;
+  left: 628px;
+  text-shadow: -55px -55px 64px #000000;
+  font-family: "Rubik-Bold", Helvetica;
+  color: #ffffff;
+  font-size: 70px;
+  text-align: center;
+  line-height: 100px;
+  position: absolute;
+  font-weight: 700;
+  letter-spacing: 0;
+  white-space: nowrap;
+}
+
+.consulting-kisae-com .heading-2 {
+  width: 566px;
+  top: 450px;
+  left: 659px;
+  position: absolute;
+  height: 83px;
+  text-shadow: -55px -55px 64px #000000;
+  font-family: "Rubik-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 70px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 100px;
+  white-space: nowrap;
+}
+
+.consulting-kisae-com .heading-3 {
+  width: 654px;
+  top: 554px;
+  left: 623px;
+  position: absolute;
+  height: 83px;
+  text-shadow: -55px -55px 64px #000000;
+  font-family: "Rubik-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 70px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 100px;
+  white-space: nowrap;
+}
+
+.consulting-kisae-com .span-elementor {
+  position: absolute;
+  width: 1170px;
+  height: 1px;
+  top: 666px;
+  left: 375px;
+  border: 0px none;
+}
+
+.consulting-kisae-com .button {
+  position: absolute;
+  width: 188px;
+  height: 57px;
+  top: 722px;
+  left: 866px;
+  background-color: #1a0a47;
+  border-radius: 3px;
+  all: unset;
+  box-sizing: border-box;
+}
+
+.consulting-kisae-com .text-wrapper-2 {
+  width: 129px;
+  height: 31px;
+  top: 12px;
+  left: 40px;
+  font-family: "Lato-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 31px;
+  text-align: center;
+  line-height: 31px;
+  white-space: nowrap;
+  position: absolute;
+  letter-spacing: 0;
+}
+
+.consulting-kisae-com .header {
+  position: absolute;
+  width: 1920px;
+  height: 133px;
+  top: 0;
+  left: 0;
+  background-color: transparent;
+  border-top-style: none;
+  border-right-style: none;
+  border-bottom-width: 1px;
+  border-bottom-style: solid;
+  border-left-style: none;
+  border-color: #2a5341;
+}
+
+.consulting-kisae-com .link-cropped-EB {
+  position: absolute;
+  width: 300px;
+  height: 100px;
+  top: 16px;
+  left: 360px;
+  background-image: url(./img/link-cropped-EB-a1-9c-EA-b3-a0-EC-9e-85-EC-8b-9c-EC-9d-98-EA-b8-b0-EC-84-b8-EA-b0-80-EB-a1-9c-ED-99-94-EC-9d-b4-ED-8a-b8-300x100-png.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.consulting-kisae-com .overlap-2 {
+  position: absolute;
+  width: 344px;
+  height: 70px;
+  top: 30px;
+  left: 1200px;
+}
+
+.consulting-kisae-com .nav-site-navigation {
+  position: absolute;
+  width: 135px;
+  height: 70px;
+  top: 0;
+  left: 0;
+  font-family: "Noto Sans-DisplaySemiBold", Helvetica;
+  font-weight: 600;
+  color: #cbdbec;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 70px;
+  white-space: nowrap;
+}
+
+.consulting-kisae-com .nav-site-navigation-2 {
+  width: 140px;
+  top: 0;
+  left: 101px;
+  position: absolute;
+  height: 70px;
+  font-family: "Noto Sans-DisplaySemiBold", Helvetica;
+  font-weight: 600;
+  color: #ffffff;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 70px;
+  white-space: nowrap;
+}
+
+.consulting-kisae-com .nav-site-navigation-3 {
+  width: 116px;
+  top: 0;
+  left: 228px;
+  position: absolute;
+  height: 70px;
+  font-family: "Noto Sans-DisplaySemiBold", Helvetica;
+  font-weight: 600;
+  color: #ffffff;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 70px;
+  white-space: nowrap;
+}
+
+.consulting-kisae-com .img {
+  position: absolute;
+  width: 10px;
+  height: 10px;
+  top: 32px;
+  left: 279px;
+}
+
+.consulting-kisae-com .nav-site-navigation-4 {
+  width: 128px;
+  top: 28px;
+  left: 1557px;
+  position: absolute;
+  height: 70px;
+  font-family: "Noto Sans-DisplaySemiBold", Helvetica;
+  font-weight: 600;
+  color: #ffffff;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 70px;
+  white-space: nowrap;
+}
+
+.consulting-kisae-com .overlap-3 {
+  position: absolute;
+  width: 1932px;
+  height: 4501px;
+  top: 984px;
+  left: 0;
+}
+
+.consulting-kisae-com .overlap-wrapper {
+  height: 1495px;
+  top: 0;
+  left: 0;
+  background-color: #c0e2c2;
+  position: absolute;
+  width: 1920px;
+}
+
+.consulting-kisae-com .overlap-4 {
+  position: relative;
+  height: 1495px;
+}
+
+.consulting-kisae-com .div-elementor {
+  position: absolute;
+  width: 1920px;
+  height: 1495px;
+  top: 0;
+  left: 0;
+  background-color: #ffffff;
+  opacity: 0.86;
+}
+
+.consulting-kisae-com .kakaotalk {
+  position: absolute;
+  width: 1200px;
+  height: 469px;
+  top: 128px;
+  left: 384px;
+  background-image: url(./img/kakaotalk-20230405-195041126-2048x800-png.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.consulting-kisae-com .div-elementor-image {
+  position: absolute;
+  width: 1200px;
+  height: 373px;
+  top: 681px;
+  left: 360px;
+}
+
+.consulting-kisae-com .symbol-wrapper {
+  position: absolute;
+  width: 224px;
+  height: 343px;
+  top: 0;
+  left: 0;
+  background-image: url(./img/figure-frame-481-png.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.consulting-kisae-com .symbol {
+  position: absolute;
+  width: 28px;
+  height: 28px;
+  top: 156px;
+  left: 10px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #14281f;
+  font-size: 28px;
+  letter-spacing: 0;
+  line-height: 28px;
+  white-space: nowrap;
+}
+
+.consulting-kisae-com .figure-kakaotalk {
+  position: absolute;
+  width: 224px;
+  height: 302px;
+  top: 0;
+  left: 244px;
+  background-image: url(./img/figure-kakaotalk-20230328-002206189-10-1520x2048-png.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.consulting-kisae-com .figure-kakaotalk-2 {
+  left: 488px;
+  background-image: url(./img/figure-kakaotalk-20230328-002206189-12-1520x2048-png.png);
+  position: absolute;
+  width: 224px;
+  height: 302px;
+  top: 0;
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.consulting-kisae-com .figure-kakaotalk-3 {
+  left: 732px;
+  background-image: url(./img/figure-kakaotalk-20230328-002206189-13-1520x2048-png.png);
+  position: absolute;
+  width: 224px;
+  height: 302px;
+  top: 0;
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.consulting-kisae-com .div-wrapper {
+  position: absolute;
+  width: 224px;
+  height: 301px;
+  top: 0;
+  left: 976px;
+  background-image: url(./img/figure-frame-488-1-png.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.consulting-kisae-com .symbol-2 {
+  top: 156px;
+  left: 186px;
+  position: absolute;
+  width: 28px;
+  height: 28px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #14281f;
+  font-size: 28px;
+  letter-spacing: 0;
+  line-height: 28px;
+  white-space: nowrap;
+}
+
+.consulting-kisae-com .button-go-to-slide {
+  top: 1034px;
+  left: 906px;
+  opacity: 0.2;
+  position: absolute;
+  width: 5px;
+  height: 5px;
+  background-color: #000000;
+  border-radius: 2.5px;
+}
+
+.consulting-kisae-com .button-go-to-slide-2 {
+  top: 1034px;
+  left: 924px;
+  opacity: 0.2;
+  position: absolute;
+  width: 5px;
+  height: 5px;
+  background-color: #000000;
+  border-radius: 2.5px;
+}
+
+.consulting-kisae-com .button-go-to-slide-3 {
+  top: 1034px;
+  left: 940px;
+  opacity: 0.2;
+  position: absolute;
+  width: 5px;
+  height: 5px;
+  background-color: #000000;
+  border-radius: 2.5px;
+}
+
+.consulting-kisae-com .button-go-to-slide-4 {
+  top: 1034px;
+  left: 958px;
+  position: absolute;
+  width: 5px;
+  height: 5px;
+  background-color: #000000;
+  border-radius: 2.5px;
+}
+
+.consulting-kisae-com .button-go-to-slide-5 {
+  top: 1034px;
+  left: 974px;
+  opacity: 0.2;
+  position: absolute;
+  width: 5px;
+  height: 5px;
+  background-color: #000000;
+  border-radius: 2.5px;
+}
+
+.consulting-kisae-com .button-go-to-slide-6 {
+  top: 1034px;
+  left: 992px;
+  opacity: 0.2;
+  position: absolute;
+  width: 5px;
+  height: 5px;
+  background-color: #000000;
+  border-radius: 2.5px;
+}
+
+.consulting-kisae-com .button-go-to-slide-7 {
+  top: 1034px;
+  left: 1008px;
+  opacity: 0.2;
+  position: absolute;
+  width: 5px;
+  height: 5px;
+  background-color: #000000;
+  border-radius: 2.5px;
+}
+
+.consulting-kisae-com .div-elementor-image-2 {
+  position: absolute;
+  width: 1200px;
+  height: 332px;
+  top: 1068px;
+  left: 360px;
+}
+
+.consulting-kisae-com .overlap-5 {
+  position: absolute;
+  width: 224px;
+  height: 302px;
+  top: 0;
+  left: 0;
+  background-image: url(./img/figure-kakaotalk-20230328-002206189-07-1520x2048-png.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.consulting-kisae-com .symbol-3 {
+  top: 136px;
+  left: 10px;
+  position: absolute;
+  width: 28px;
+  height: 28px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #14281f;
+  font-size: 28px;
+  letter-spacing: 0;
+  line-height: 28px;
+  white-space: nowrap;
+}
+
+.consulting-kisae-com .figure-kakaotalk-4 {
+  left: 244px;
+  background-image: url(./img/figure-kakaotalk-20230328-002206189-16-1520x2048-png.png);
+  position: absolute;
+  width: 224px;
+  height: 302px;
+  top: 0;
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.consulting-kisae-com .figure-kakaotalk-5 {
+  left: 488px;
+  background-image: url(./img/figure-kakaotalk-20230328-002206189-09-1520x2048-png.png);
+  position: absolute;
+  width: 224px;
+  height: 302px;
+  top: 0;
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.consulting-kisae-com .figure-kakaotalk-6 {
+  left: 732px;
+  background-image: url(./img/figure-kakaotalk-20230328-002206189-14-1520x2048-png.png);
+  position: absolute;
+  width: 224px;
+  height: 302px;
+  top: 0;
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.consulting-kisae-com .overlap-6 {
+  position: absolute;
+  width: 224px;
+  height: 302px;
+  top: 0;
+  left: 976px;
+  background-image: url(./img/figure-kakaotalk-20230328-002206189-15-1520x2048-png.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.consulting-kisae-com .symbol-4 {
+  top: 136px;
+  left: 186px;
+  position: absolute;
+  width: 28px;
+  height: 28px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #14281f;
+  font-size: 28px;
+  letter-spacing: 0;
+  line-height: 28px;
+  white-space: nowrap;
+}
+
+.consulting-kisae-com .button-go-to-slide-8 {
+  position: absolute;
+  width: 5px;
+  height: 5px;
+  top: 1380px;
+  left: 898px;
+  background-color: #000000;
+  border-radius: 2.5px;
+  opacity: 0.2;
+}
+
+.consulting-kisae-com .button-go-to-slide-9 {
+  position: absolute;
+  width: 5px;
+  height: 5px;
+  top: 1380px;
+  left: 915px;
+  background-color: #000000;
+  border-radius: 2.5px;
+  opacity: 0.2;
+}
+
+.consulting-kisae-com .button-go-to-slide-10 {
+  position: absolute;
+  width: 5px;
+  height: 5px;
+  top: 1380px;
+  left: 932px;
+  background-color: #000000;
+  border-radius: 2.5px;
+  opacity: 0.2;
+}
+
+.consulting-kisae-com .button-go-to-slide-11 {
+  position: absolute;
+  width: 5px;
+  height: 5px;
+  top: 1380px;
+  left: 949px;
+  background-color: #000000;
+  border-radius: 2.5px;
+}
+
+.consulting-kisae-com .button-go-to-slide-12 {
+  position: absolute;
+  width: 5px;
+  height: 5px;
+  top: 1380px;
+  left: 966px;
+  background-color: #000000;
+  border-radius: 2.5px;
+  opacity: 0.2;
+}
+
+.consulting-kisae-com .button-go-to-slide-13 {
+  position: absolute;
+  width: 5px;
+  height: 5px;
+  top: 1380px;
+  left: 983px;
+  background-color: #000000;
+  border-radius: 2.5px;
+  opacity: 0.2;
+}
+
+.consulting-kisae-com .button-go-to-slide-14 {
+  position: absolute;
+  width: 5px;
+  height: 5px;
+  top: 1380px;
+  left: 1000px;
+  background-color: #000000;
+  border-radius: 2.5px;
+  opacity: 0.2;
+}
+
+.consulting-kisae-com .button-go-to-slide-15 {
+  top: 1380px;
+  left: 1017px;
+  opacity: 0.2;
+  position: absolute;
+  width: 5px;
+  height: 5px;
+  background-color: #000000;
+  border-radius: 2.5px;
+}
+
+.consulting-kisae-com .div-elementor-wrapper {
+  height: 1320px;
+  top: 1495px;
+  left: 11px;
+  background-color: #e1e6e7;
+  position: absolute;
+  width: 1920px;
+}
+
+.consulting-kisae-com .div-elementor-2 {
+  position: relative;
+  width: 1600px;
+  height: 1140px;
+  top: 48px;
+  left: 160px;
+}
+
+.consulting-kisae-com .div-elementor-widget {
+  position: absolute;
+  width: 800px;
+  height: 1140px;
+  top: 0;
+  left: 0;
+}
+
+.consulting-kisae-com .kakaotalk-2 {
+  position: relative;
+  width: 780px;
+  height: 922px;
+  top: 75px;
+  left: 10px;
+  background-image: url(./img/kakaotalk-20230810-231341635-01-866x1024-png.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.consulting-kisae-com .div-elementor-widget-2 {
+  width: 800px;
+  height: 1140px;
+  left: 800px;
+  position: absolute;
+  top: 0;
+}
+
+.consulting-kisae-com .kakaotalk-3 {
+  position: absolute;
+  width: 780px;
+  height: 920px;
+  top: 75px;
+  left: 10px;
+  background-image: url(./img/kakaotalk-20230810-231341635-868x1024-png.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.consulting-kisae-com .div-elementor-button {
+  position: absolute;
+  width: 780px;
+  height: 55px;
+  top: 1075px;
+  left: 10px;
+}
+
+.consulting-kisae-com .button-2 {
+  position: relative;
+  width: 255px;
+  height: 55px;
+  left: 300px;
+  background-color: #14281f;
+  border-radius: 3px;
+  all: unset;
+  box-sizing: border-box;
+}
+
+.consulting-kisae-com .text-wrapper-3 {
+  width: 185px;
+  height: 29px;
+  top: 12px;
+  left: 35px;
+  font-family: "Lato-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 29px;
+  text-align: center;
+  line-height: 29px;
+  white-space: nowrap;
+  position: absolute;
+  letter-spacing: 0;
+}
+
+.consulting-kisae-com .main-article-section-2 {
+  height: 673px;
+  top: 2815px;
+  left: 12px;
+  background-color: #14281f;
+  position: absolute;
+  width: 1920px;
+}
+
+.consulting-kisae-com .div-elementor-3 {
+  position: relative;
+  width: 1200px;
+  height: 673px;
+  left: 360px;
+}
+
+.consulting-kisae-com .EB-EC-EC-wrapper {
+  width: 600px;
+  height: 673px;
+  left: 0;
+  position: absolute;
+  top: 0;
+}
+
+.consulting-kisae-com .EB-EC-EC {
+  position: relative;
+  width: 580px;
+  height: 653px;
+  top: 10px;
+  left: 10px;
+  background-image: url(./img/EB-a9-94-EC-9d-b8-EC-88-98-EC-8b-9c-910x1024-png.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.consulting-kisae-com .div-elementor-widget-3 {
+  width: 600px;
+  height: 673px;
+  left: 600px;
+  position: absolute;
+  top: 0;
+}
+
+.consulting-kisae-com .div-elementor-4 {
+  position: absolute;
+  width: 550px;
+  height: 310px;
+  top: 150px;
+  left: 50px;
+}
+
+.consulting-kisae-com .p {
+  width: 203px;
+  height: 4px;
+  top: -1px;
+  left: 0;
+  font-family: "Karla-Medium", Helvetica;
+  font-weight: 500;
+  color: #ffffff;
+  font-size: 19px;
+  line-height: 4px;
+  white-space: nowrap;
+  position: absolute;
+  letter-spacing: 0;
+}
+
+.consulting-kisae-com .text-wrapper-4 {
+  width: 225px;
+  height: 4px;
+  top: 33px;
+  left: 0;
+  font-family: "Karla-Medium", Helvetica;
+  font-weight: 500;
+  color: #ffffff;
+  font-size: 19px;
+  line-height: 4px;
+  white-space: nowrap;
+  position: absolute;
+  letter-spacing: 0;
+}
+
+.consulting-kisae-com .text-wrapper-5 {
+  width: 111px;
+  height: 4px;
+  top: 68px;
+  left: 0;
+  font-family: "Karla-Medium", Helvetica;
+  font-weight: 500;
+  color: #ffffff;
+  font-size: 19px;
+  line-height: 4px;
+  white-space: nowrap;
+  position: absolute;
+  letter-spacing: 0;
+}
+
+.consulting-kisae-com .text-wrapper-6 {
+  width: 275px;
+  height: 4px;
+  top: 102px;
+  left: 0;
+  font-family: "Karla-Medium", Helvetica;
+  font-weight: 500;
+  color: #ffffff;
+  font-size: 19px;
+  line-height: 4px;
+  white-space: nowrap;
+  position: absolute;
+  letter-spacing: 0;
+}
+
+.consulting-kisae-com .text-wrapper-7 {
+  width: 81px;
+  height: 4px;
+  top: 171px;
+  left: 0;
+  font-family: "Karla-Medium", Helvetica;
+  font-weight: 500;
+  color: #ffffff;
+  font-size: 19px;
+  line-height: 4px;
+  white-space: nowrap;
+  position: absolute;
+  letter-spacing: 0;
+}
+
+.consulting-kisae-com .text-wrapper-8 {
+  width: 261px;
+  height: 4px;
+  top: 205px;
+  left: 0;
+  font-family: "Karla-Medium", Helvetica;
+  font-weight: 500;
+  color: #ffffff;
+  font-size: 19px;
+  line-height: 4px;
+  white-space: nowrap;
+  position: absolute;
+  letter-spacing: 0;
+}
+
+.consulting-kisae-com .text-wrapper-9 {
+  width: 281px;
+  height: 4px;
+  top: 240px;
+  left: 0;
+  font-family: "Karla-Medium", Helvetica;
+  font-weight: 500;
+  color: #ffffff;
+  font-size: 19px;
+  line-height: 4px;
+  white-space: nowrap;
+  position: absolute;
+  letter-spacing: 0;
+}
+
+.consulting-kisae-com .text-wrapper-10 {
+  width: 87px;
+  height: 4px;
+  top: 274px;
+  left: 0;
+  font-family: "Karla-Medium", Helvetica;
+  font-weight: 500;
+  color: #ffffff;
+  font-size: 19px;
+  line-height: 4px;
+  white-space: nowrap;
+  position: absolute;
+  letter-spacing: 0;
+}
+
+.consulting-kisae-com .div-elementor-5 {
+  position: absolute;
+  width: 550px;
+  height: 86px;
+  top: 475px;
+  left: 50px;
+}
+
+.consulting-kisae-com .text-wrapper-11 {
+  width: 262px;
+  height: 29px;
+  top: 7px;
+  left: 0;
+  font-family: "Karla-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 25px;
+  line-height: 46.4px;
+  white-space: nowrap;
+  position: absolute;
+  letter-spacing: 0;
+}
+
+.consulting-kisae-com .main-article-section-3 {
+  height: 1013px;
+  top: 3487px;
+  left: 0;
+  background-color: #f7fffd;
+  position: absolute;
+  width: 1920px;
+}
+
+.consulting-kisae-com .kakaotalk-4 {
+  position: absolute;
+  width: 1024px;
+  height: 350px;
+  top: 77px;
+  left: 448px;
+  background-image: url(./img/kakaotalk-20230407-025354389-1024x350-png.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.consulting-kisae-com .section {
+  position: absolute;
+  width: 1280px;
+  height: 449px;
+  top: 458px;
+  left: 320px;
+}
+
+.consulting-kisae-com .kakaotalk-wrapper {
+  width: 640px;
+  height: 449px;
+  left: 0;
+  border-left-width: 2px;
+  border-left-style: solid;
+  border-color: #6f4bf117;
+  position: absolute;
+  top: 0;
+}
+
+.consulting-kisae-com .kakaotalk-5 {
+  width: 618px;
+  height: 429px;
+  top: 10px;
+  left: 12px;
+  background-image: url(./img/kakaotalk-20230407-020208499-1024x711-png.png);
+  position: relative;
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.consulting-kisae-com .div-elementor-widget-4 {
+  width: 640px;
+  height: 449px;
+  left: 640px;
+  border-left-width: 2px;
+  border-left-style: solid;
+  border-color: #6f4bf117;
+  position: absolute;
+  top: 0;
+}
+
+.consulting-kisae-com .kakaotalk-6 {
+  width: 618px;
+  height: 429px;
+  top: 10px;
+  left: 12px;
+  background-image: url(./img/kakaotalk-20230407-020203144-1024x711-png.png);
+  position: relative;
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.consulting-kisae-com .overlap-group-wrapper {
+  height: 2511px;
+  top: 5485px;
+  left: 0;
+  background-color: #e2e9e7;
+  position: absolute;
+  width: 1920px;
+}
+
+.consulting-kisae-com .overlap-7 {
+  position: relative;
+  height: 2511px;
+}
+
+.consulting-kisae-com .div-elementor-6 {
+  position: absolute;
+  width: 1920px;
+  height: 2511px;
+  top: 0;
+  left: 0;
+  background-color: #ffffff;
+  opacity: 0.08;
+}
+
+.consulting-kisae-com .kakaotalk-7 {
+  position: absolute;
+  width: 1280px;
+  height: 2091px;
+  top: 174px;
+  left: 320px;
+  background-image: url(./img/kakaotalk-20230405-200535498-png.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.consulting-kisae-com .button-3 {
+  position: absolute;
+  width: 216px;
+  height: 65px;
+  top: 2286px;
+  left: 852px;
+  background-color: #14281f;
+  border-radius: 3px;
+  all: unset;
+  box-sizing: border-box;
+}
+
+.consulting-kisae-com .text-wrapper-12 {
+  width: 163px;
+  height: 39px;
+  top: 12px;
+  left: 40px;
+  font-family: "Lato-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 39px;
+  text-align: center;
+  line-height: 39px;
+  white-space: nowrap;
+  position: absolute;
+  letter-spacing: 0;
+}
+
+.consulting-kisae-com .main-article-section-4 {
+  height: 2308px;
+  top: 7996px;
+  left: 0;
+  background-color: #e3ebeb;
+  position: absolute;
+  width: 1920px;
+}
+
+.consulting-kisae-com .kakaotalk-8 {
+  position: absolute;
+  width: 1024px;
+  height: 263px;
+  top: 55px;
+  left: 448px;
+  background-image: url(./img/kakaotalk-20230408-021344073-1024x263-png.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.consulting-kisae-com .section-2 {
+  position: absolute;
+  width: 1580px;
+  height: 920px;
+  top: 399px;
+  left: 170px;
+}
+
+.consulting-kisae-com .div-elementor-widget-5 {
+  width: 790px;
+  height: 920px;
+  left: 0;
+  border-left-width: 2px;
+  border-left-style: solid;
+  border-color: #6f4bf117;
+  position: absolute;
+  top: 0;
+}
+
+.consulting-kisae-com .kakaotalk-9 {
+  width: 758px;
+  height: 920px;
+  left: 2px;
+  background-image: url(./img/kakaotalk-20230407-213551026-844x1024-png.png);
+  position: relative;
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.consulting-kisae-com .div-elementor-widget-6 {
+  width: 790px;
+  height: 920px;
+  left: 790px;
+  border-left-width: 2px;
+  border-left-style: solid;
+  border-color: #6f4bf117;
+  position: absolute;
+  top: 0;
+}
+
+.consulting-kisae-com .kakaotalk-10 {
+  width: 758px;
+  height: 920px;
+  left: 32px;
+  background-image: url(./img/kakaotalk-20230407-213544216-844x1024-png.png);
+  position: relative;
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.consulting-kisae-com .section-3 {
+  position: absolute;
+  width: 1580px;
+  height: 763px;
+  top: 1383px;
+  left: 170px;
+}
+
+.consulting-kisae-com .div-elementor-widget-7 {
+  width: 790px;
+  height: 763px;
+  left: 0;
+  border-left-width: 2px;
+  border-left-style: solid;
+  border-color: #6f4bf117;
+  position: absolute;
+  top: 0;
+}
+
+.consulting-kisae-com .kakaotalk-11 {
+  width: 758px;
+  height: 763px;
+  left: 2px;
+  background-image: url(./img/kakaotalk-20230407-214928100-1017x1024-png.png);
+  position: relative;
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.consulting-kisae-com .div-elementor-widget-8 {
+  width: 790px;
+  height: 763px;
+  left: 790px;
+  border-left-width: 2px;
+  border-left-style: solid;
+  border-color: #6f4bf117;
+  position: absolute;
+  top: 0;
+}
+
+.consulting-kisae-com .kakaotalk-12 {
+  width: 758px;
+  height: 763px;
+  left: 32px;
+  background-image: url(./img/kakaotalk-20230407-214952075-1017x1024-png.png);
+  position: relative;
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.consulting-kisae-com .button-4 {
+  position: absolute;
+  width: 301px;
+  height: 59px;
+  top: 2194px;
+  left: 863px;
+  background-color: #14281f;
+  border-radius: 3px;
+  all: unset;
+  box-sizing: border-box;
+}
+
+.consulting-kisae-com .text-wrapper-13 {
+  width: 207px;
+  height: 33px;
+  top: 12px;
+  left: 47px;
+  font-family: "Lato-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 33px;
+  text-align: center;
+  line-height: 33px;
+  white-space: nowrap;
+  position: absolute;
+  letter-spacing: 0;
+}
+
+.consulting-kisae-com .main-article-section-5 {
+  height: 738px;
+  top: 10304px;
+  left: 0;
+  background-color: #f7fffd;
+  position: absolute;
+  width: 1920px;
+}
+
+.consulting-kisae-com .heading-4 {
+  width: 239px;
+  height: 28px;
+  top: 123px;
+  left: 370px;
+  font-family: "Ubuntu-Bold", Helvetica;
+  color: #14281f;
+  font-size: 25px;
+  line-height: 32.5px;
+  position: absolute;
+  font-weight: 700;
+  letter-spacing: 0;
+  white-space: nowrap;
+}
+
+.consulting-kisae-com .heading-5 {
+  width: 326px;
+  height: 52px;
+  top: 169px;
+  left: 370px;
+  font-family: "Ubuntu-Bold", Helvetica;
+  font-weight: 700;
+  color: #14281f;
+  font-size: 40px;
+  line-height: 52px;
+  position: absolute;
+  letter-spacing: 0;
+  white-space: nowrap;
+}
+
+.consulting-kisae-com .section-4 {
+  position: absolute;
+  width: 1180px;
+  height: 265px;
+  top: 288px;
+  left: 370px;
+}
+
+.consulting-kisae-com .div-elementor-widget-9 {
+  width: 393px;
+  height: 265px;
+  left: 0;
+  border-left-width: 2px;
+  border-left-style: solid;
+  border-color: #6f4bf117;
+  position: absolute;
+  top: 0;
+}
+
+.consulting-kisae-com .div-elementor-7 {
+  position: absolute;
+  width: 135px;
+  height: 80px;
+  top: 32px;
+  left: 34px;
+}
+
+.consulting-kisae-com .text-wrapper-14 {
+  position: absolute;
+  width: 136px;
+  height: 80px;
+  top: -1px;
+  left: 0;
+  font-family: "Ubuntu-Regular", Helvetica;
+  font-weight: 400;
+  color: #3b7a57;
+  font-size: 80px;
+  letter-spacing: 0;
+  line-height: 80px;
+  white-space: nowrap;
+}
+
+.consulting-kisae-com .div-elementor-widget-10 {
+  position: absolute;
+  width: 327px;
+  height: 86px;
+  top: 112px;
+  left: 34px;
+}
+
+.consulting-kisae-com .heading-6 {
+  width: 213px;
+  height: 22px;
+  top: 21px;
+  left: 0;
+  font-family: "Ubuntu-Bold", Helvetica;
+  font-weight: 700;
+  color: #14281f;
+  font-size: 19.2px;
+  line-height: 35px;
+  position: absolute;
+  letter-spacing: 0;
+  white-space: nowrap;
+}
+
+.consulting-kisae-com .heading-7 {
+  width: 314px;
+  height: 22px;
+  top: 56px;
+  left: 0;
+  font-family: "Ubuntu-Bold", Helvetica;
+  font-weight: 700;
+  color: #14281f;
+  font-size: 19.2px;
+  line-height: 35px;
+  position: absolute;
+  letter-spacing: 0;
+  white-space: nowrap;
+}
+
+.consulting-kisae-com .div-elementor-widget-11 {
+  width: 393px;
+  height: 265px;
+  left: 393px;
+  border-left-width: 2px;
+  border-left-style: solid;
+  border-color: #6f4bf117;
+  position: absolute;
+  top: 0;
+}
+
+.consulting-kisae-com .div-elementor-widget-12 {
+  width: 327px;
+  height: 121px;
+  position: absolute;
+  top: 112px;
+  left: 34px;
+}
+
+.consulting-kisae-com .heading-8 {
+  width: 267px;
+  height: 22px;
+  top: 21px;
+  left: 0;
+  font-family: "Ubuntu-Bold", Helvetica;
+  font-weight: 700;
+  color: #14281f;
+  font-size: 19.2px;
+  line-height: 35px;
+  position: absolute;
+  letter-spacing: 0;
+  white-space: nowrap;
+}
+
+.consulting-kisae-com .heading-9 {
+  width: 307px;
+  height: 22px;
+  top: 56px;
+  left: 0;
+  font-family: "Ubuntu-Bold", Helvetica;
+  font-weight: 700;
+  color: #14281f;
+  font-size: 19.2px;
+  line-height: 35px;
+  position: absolute;
+  letter-spacing: 0;
+  white-space: nowrap;
+}
+
+.consulting-kisae-com .heading-10 {
+  width: 176px;
+  height: 22px;
+  top: 91px;
+  left: 0;
+  font-family: "Ubuntu-Bold", Helvetica;
+  font-weight: 700;
+  color: #14281f;
+  font-size: 19.2px;
+  line-height: 35px;
+  position: absolute;
+  letter-spacing: 0;
+  white-space: nowrap;
+}
+
+.consulting-kisae-com .div-elementor-widget-13 {
+  width: 393px;
+  height: 265px;
+  left: 787px;
+  border-left-width: 2px;
+  border-left-style: solid;
+  border-color: #6f4bf117;
+  position: absolute;
+  top: 0;
+}
+
+.consulting-kisae-com .div-elementor-8 {
+  position: absolute;
+  width: 200px;
+  height: 80px;
+  top: 32px;
+  left: 34px;
+}
+
+.consulting-kisae-com .text-wrapper-15 {
+  width: 201px;
+  height: 80px;
+  top: -1px;
+  left: 0;
+  font-family: "Ubuntu-Regular", Helvetica;
+  font-weight: 400;
+  color: #3b7a57;
+  font-size: 80px;
+  line-height: 80px;
+  white-space: nowrap;
+  position: absolute;
+  letter-spacing: 0;
+}
+
+.consulting-kisae-com .div-elementor-widget-14 {
+  width: 359px;
+  height: 86px;
+  position: absolute;
+  top: 112px;
+  left: 34px;
+}
+
+.consulting-kisae-com .heading-11 {
+  width: 329px;
+  height: 22px;
+  top: 21px;
+  left: 0;
+  font-family: "Ubuntu-Bold", Helvetica;
+  font-weight: 700;
+  color: #14281f;
+  font-size: 19.2px;
+  line-height: 35px;
+  position: absolute;
+  letter-spacing: 0;
+  white-space: nowrap;
+}
+
+.consulting-kisae-com .heading-12 {
+  width: 201px;
+  height: 22px;
+  top: 56px;
+  left: 0;
+  font-family: "Ubuntu-Bold", Helvetica;
+  font-weight: 700;
+  color: #14281f;
+  font-size: 19.2px;
+  line-height: 35px;
+  position: absolute;
+  letter-spacing: 0;
+  white-space: nowrap;
+}
+
+.consulting-kisae-com .main-article-section-6 {
+  height: 257px;
+  top: 11042px;
+  left: 0;
+  background-color: #14281f;
+  position: absolute;
+  width: 1920px;
+}
+
+.consulting-kisae-com .heading-13 {
+  width: 426px;
+  height: 33px;
+  top: 99px;
+  left: 310px;
+  font-family: "Rubik-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 26px;
+  line-height: 33.8px;
+  position: absolute;
+  letter-spacing: 0;
+  white-space: nowrap;
+}
+
+.consulting-kisae-com .heading-14 {
+  position: absolute;
+  width: 468px;
+  height: 67px;
+  top: 147px;
+  left: 310px;
+  font-family: "Rubik-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 51px;
+  letter-spacing: 0;
+  line-height: 66.3px;
+  white-space: nowrap;
+}
+
+.consulting-kisae-com .main-article-section-7 {
+  height: 675px;
+  top: 11299px;
+  left: 0;
+  background-color: #14281f;
+  position: absolute;
+  width: 1920px;
+}
+
+.consulting-kisae-com .div-elementor-9 {
+  position: relative;
+  width: 1300px;
+  height: 655px;
+  left: 310px;
+}
+
+.consulting-kisae-com .div-elementor-widget-15 {
+  width: 433px;
+  height: 655px;
+  left: 0;
+  position: absolute;
+  top: 0;
+}
+
+.consulting-kisae-com .kakaotalk-13 {
+  position: relative;
+  width: 413px;
+  height: 635px;
+  top: 10px;
+  left: 10px;
+  background-image: url(./img/kakaotalk-20230406-025137824-png.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.consulting-kisae-com .div-elementor-widget-16 {
+  width: 433px;
+  height: 655px;
+  left: 433px;
+  position: absolute;
+  top: 0;
+}
+
+.consulting-kisae-com .kakaotalk-14 {
+  position: relative;
+  width: 413px;
+  height: 635px;
+  top: 10px;
+  left: 10px;
+  background-image: url(./img/kakaotalk-20230406-025057843-1-png.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.consulting-kisae-com .div-elementor-widget-17 {
+  width: 433px;
+  height: 655px;
+  left: 867px;
+  position: absolute;
+  top: 0;
+}
+
+.consulting-kisae-com .kakaotalk-15 {
+  position: relative;
+  width: 413px;
+  height: 634px;
+  top: 10px;
+  left: 10px;
+  background-image: url(./img/kakaotalk-20230406-040705747-png.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.consulting-kisae-com .button-wrapper {
+  height: 229px;
+  top: 11975px;
+  left: 0;
+  background-color: #14281f;
+  position: absolute;
+  width: 1920px;
+}
+
+.consulting-kisae-com .button-5 {
+  position: relative;
+  width: 195px;
+  height: 59px;
+  top: 60px;
+  left: 863px;
+  background-color: #438d6c;
+  border-radius: 3px;
+  all: unset;
+  box-sizing: border-box;
+}
+
+.consulting-kisae-com .text-wrapper-16 {
+  width: 129px;
+  height: 33px;
+  top: 12px;
+  left: 40px;
+  font-family: "Lato-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 33px;
+  text-align: center;
+  line-height: 33px;
+  white-space: nowrap;
+  position: absolute;
+  letter-spacing: 0;
+}
+
+.consulting-kisae-com .main-article-section-8 {
+  height: 553px;
+  top: 12204px;
+  left: 0;
+  background-color: #e4efe8;
+  position: absolute;
+  width: 1920px;
+}
+
+.consulting-kisae-com .div-elementor-10 {
+  position: relative;
+  width: 1200px;
+  height: 473px;
+  top: 40px;
+  left: 360px;
+}
+
+.consulting-kisae-com .EB-a-EC-d-b-EC-wrapper {
+  width: 600px;
+  height: 473px;
+  left: 0;
+  position: absolute;
+  top: 0;
+}
+
+.consulting-kisae-com .EB-a-EC-d-b-EC {
+  position: relative;
+  width: 576px;
+  height: 424px;
+  top: 25px;
+  left: 12px;
+  background-image: url(./img/EB-a9-94-EC-9d-b8-EC-9e-85-EC-8b-9c-EC-9d-98-EA-b8-b0-EC-84-b8-ED-99-a9-EA-b8-88-png.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.consulting-kisae-com .div-elementor-widget-18 {
+  width: 600px;
+  height: 473px;
+  left: 600px;
+  position: absolute;
+  top: 0;
+}
+
+.consulting-kisae-com .frame {
+  position: absolute;
+  width: 540px;
+  height: 346px;
+  top: 65px;
+  left: 0;
+  background-image: url(./img/frame-515-1024x656-png.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.consulting-kisae-com .div-elementor-button-2 {
+  position: absolute;
+  width: 540px;
+  height: 47px;
+  top: 426px;
+  left: 0;
+}
+
+.consulting-kisae-com .button-6 {
+  position: relative;
+  width: 157px;
+  height: 47px;
+  left: 191px;
+  background-color: #14281f;
+  border-radius: 3px;
+  all: unset;
+  box-sizing: border-box;
+}
+
+.consulting-kisae-com .text-wrapper-17 {
+  width: 77px;
+  height: 21px;
+  top: 12px;
+  left: 40px;
+  font-family: "Lato-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 21px;
+  text-align: center;
+  line-height: 21px;
+  white-space: nowrap;
+  position: absolute;
+  letter-spacing: 0;
+}
+
+.consulting-kisae-com .footer-section {
+  position: absolute;
+  width: 1920px;
+  height: 218px;
+  top: 12758px;
+  left: 0;
+  background-color: #080808;
+}
+
+.consulting-kisae-com .div-elementor-11 {
+  position: relative;
+  width: 1200px;
+  height: 132px;
+  top: 52px;
+  left: 360px;
+}
+
+.consulting-kisae-com .link-cropped-EB-wrapper {
+  width: 600px;
+  height: 132px;
+  left: 0;
+  position: absolute;
+  top: 0;
+}
+
+.consulting-kisae-com .link-cropped-EB-a {
+  position: relative;
+  width: 203px;
+  height: 68px;
+  top: 10px;
+  left: 10px;
+  background-image: url(./img/image.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.consulting-kisae-com .div-elementor-widget-19 {
+  width: 600px;
+  height: 132px;
+  left: 600px;
+  position: absolute;
+  top: 0;
+}
+
+.consulting-kisae-com .div-elementor-12 {
+  position: absolute;
+  width: 580px;
+  height: 76px;
+  top: 10px;
+  left: 10px;
+}
+
+.consulting-kisae-com .text-wrapper-18 {
+  position: absolute;
+  width: 92px;
+  height: 3px;
+  top: -1px;
+  left: 0;
+  font-family: "Karla-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 7px;
+  letter-spacing: 0;
+  line-height: 3px;
+  white-space: nowrap;
+}
+
+.consulting-kisae-com .text-wrapper-19 {
+  width: 39px;
+  height: 3px;
+  top: 14px;
+  left: 0;
+  font-family: "Karla-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 7px;
+  line-height: 3px;
+  white-space: nowrap;
+  position: absolute;
+  letter-spacing: 0;
+}
+
+.consulting-kisae-com .text-wrapper-20 {
+  width: 158px;
+  height: 3px;
+  top: 30px;
+  left: 0;
+  font-family: "Karla-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 7px;
+  line-height: 3px;
+  white-space: nowrap;
+  position: absolute;
+  letter-spacing: 0;
+}
+
+.consulting-kisae-com .text-wrapper-21 {
+  position: absolute;
+  width: 196px;
+  height: 3px;
+  top: 45px;
+  left: 0;
+  font-family: "Karla-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 7px;
+  letter-spacing: 0;
+  line-height: 3px;
+  white-space: nowrap;
+}
+
+.consulting-kisae-com .overlap-8 {
+  position: absolute;
+  width: 85px;
+  height: 8px;
+  top: 58px;
+  left: 0;
+}
+
+.consulting-kisae-com .element {
+  width: 71px;
+  height: 3px;
+  top: 2px;
+  left: 0;
+  font-family: "Karla-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 7px;
+  line-height: 3px;
+  white-space: nowrap;
+  position: absolute;
+  letter-spacing: 0;
+}
+
+.consulting-kisae-com .span {
+  position: absolute;
+  width: 14px;
+  height: 8px;
+  top: 0;
+  left: 71px;
+  background-color: #555454;
+}
+
+.consulting-kisae-com .link {
+  position: absolute;
+  width: 17px;
+  height: 8px;
+  top: -1px;
+  left: 0;
+  font-family: "Karla-Regular", Helvetica;
+  font-weight: 400;
+  color: #14281f;
+  font-size: 7px;
+  letter-spacing: 0;
+  line-height: 3px;
+}
+
+.consulting-kisae-com .overlap-group-2 {
+  position: absolute;
+  width: 67px;
+  height: 8px;
+  top: 58px;
+  left: 85px;
+}
+
+.consulting-kisae-com .text-wrapper-22 {
+  width: 58px;
+  height: 3px;
+  top: 2px;
+  left: 0;
+  font-family: "Karla-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 7px;
+  line-height: 3px;
+  white-space: nowrap;
+  position: absolute;
+  letter-spacing: 0;
+}
+
+.consulting-kisae-com .link-2 {
+  position: absolute;
+  width: 18px;
+  height: 8px;
+  top: 0;
+  left: 49px;
+  background-color: #555454;
+}
+
+.consulting-kisae-com .text-wrapper-23 {
+  width: 22px;
+  height: 8px;
+  top: -1px;
+  left: 0;
+  font-family: "Karla-Regular", Helvetica;
+  font-weight: 400;
+  color: #14281f;
+  font-size: 7px;
+  line-height: 3px;
+  position: absolute;
+  letter-spacing: 0;
+}
+
+.consulting-kisae-com .div-hfe-copyright {
+  position: absolute;
+  width: 580px;
+  height: 20px;
+  top: 101px;
+  left: 10px;
+}
+
+.consulting-kisae-com .text-wrapper-24 {
+  position: absolute;
+  width: 329px;
+  height: 13px;
+  top: 2px;
+  left: 0;
+  font-family: "Karla-Regular", Helvetica;
+  font-weight: 400;
+  color: #b1b1b1;
+  font-size: 11px;
+  letter-spacing: 0;
+  line-height: 20.4px;
+  white-space: nowrap;
+}
